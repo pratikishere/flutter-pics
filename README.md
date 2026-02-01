@@ -8,4 +8,6 @@ This widget will have no instance variable that will change.
 This widget will have instance variable that will change, and widget needs to update itself on screen when data changes.
 
 ### API
-The open source API is used in the project - [API Link](https://jsonplaceholder.typicode.com/)
+To display list of Images feed the open source API is used in the project    
+[Json placeholder website](https://jsonplaceholder.typicode.com/)    
+[Photos API](https://jsonplaceholder.typicode.com/photos)
